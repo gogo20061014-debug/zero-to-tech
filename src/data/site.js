@@ -6,7 +6,7 @@
 // 它们可以改成从网络接口实时取——而组件那边照样一个字都不用动。
 
 export const home = {
-  heroTitle: "您好世界",
+  heroTitle: "干倒做市商",
   heroSubtitle: "项目，创意，灵感，心得，我的作品",
   featuredWork: {
     kicker: "作品",
