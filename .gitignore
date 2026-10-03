@@ -18,3 +18,5 @@ dist/
 *.log
 .env*
 backend/.env/
+backend/__pycache__/
+*.pyc
